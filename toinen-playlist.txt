@@ -5,3 +5,5 @@ Musiikkia
 Classista ja Rokkia
 Toimiiko ilman committia
 Testataan vielä
+Keksitkö vielä hyviä lauluja?
+En pysty keksimään itse enempää
