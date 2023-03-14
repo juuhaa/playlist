@@ -3,3 +3,4 @@ Idols
 Uutiset
 Musiikkia
 Classista ja Rokkia
+Toimiiko ilman committia
